@@ -117,6 +117,7 @@
   margin: 0 auto;
 }
 .recipies__iframe {
+  border: 0;
 }
 .recipies__video-caption {
   font-family: "Inter", "Arial", sans-serif;
