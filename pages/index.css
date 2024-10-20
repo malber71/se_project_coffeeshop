@@ -81,7 +81,7 @@
 .nav__link {
   font-weight: 500;
 }
-.recipies {
+.recipes {
   display: flex;
   flex-direction: column;
   height: 800px;
@@ -93,21 +93,21 @@
   background-size: cover;
   color: #ffffff;
 }
-.recipies__title {
+.recipes__title {
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
   margin: 0 0 24px;
 }
-.recipies__subtitle {
+.recipes__subtitle {
   font-family: "Noto Serif", "Times New Romaan", serif;
   font-size: 20px;
   line-height: 30px;
   margin: 0 0 80px;
   max-width: 438px;
 }
-.recipies__videos {
+.recipes__videos {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -116,10 +116,10 @@
   height: 273px;
   margin: 0 auto;
 }
-.recipies__iframe {
+.recipes__iframe {
   border: 0;
 }
-.recipies__video-caption {
+.recipes__video-caption {
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
