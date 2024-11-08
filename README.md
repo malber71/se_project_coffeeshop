@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Add dynamic images of menu items.
+- Add more recipe videos.
+- Add a section with testimonials from customers.
