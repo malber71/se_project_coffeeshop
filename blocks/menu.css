@@ -10,6 +10,7 @@
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   color: #000;
 }
 .menu__title {
@@ -22,7 +23,7 @@
 }
 .menu__subtitle {
   margin: 0 0 100px;
-  min-width: 780px;
+  width: 780px;
   text-align: center;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;

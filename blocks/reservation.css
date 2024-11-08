@@ -1,7 +1,6 @@
 .reservation {
   display: flex;
   flex-direction: column;
-  min-height: 800px;
   box-sizing: border-box;
   padding: 100px 0 120px;
   background-color: #d9e7ff;
@@ -10,6 +9,7 @@
   background-size: cover;
   color: #ffffff;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .reservation__title {
@@ -25,5 +25,4 @@
 }
 .reservation__form {
   margin: 0 auto;
-  width: 385px;
 }
